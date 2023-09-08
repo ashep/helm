@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ujds:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2023-09-08T18:41:52.416293+03:00"
+    description: A Helm chart for UJDS
+    digest: b8e38cc7ecd2ccaeffd2713a1dea578c32fc3fce49fa59f3aa9ed67f321ef2f7
+    name: ujds
+    type: application
+    urls:
+    - ujds-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-09-08T18:41:52.415482+03:00"
